@@ -1,3 +1,5 @@
+![](intro.gif)
+
 # DataCon_hachaton
 
 Данный репозиторий является решением хакатона(DataCon) от SCAMT ITMO
@@ -12,7 +14,9 @@
    model_extra_trees (ExtraTreeRegressor)
 
 5) Веса моделей: model_ansamble.pkl, moodel_stack.pkl
-6) Датасеты: -db1(data)
+6) Датасеты:
+   
+             -db1(data)
    
              -db2(bacterial_descriptors)
    
