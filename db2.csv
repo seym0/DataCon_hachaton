@@ -1,0 +1,45 @@
+,Bacteria,phylum,class,order,family,genus,species,gram,"avg_Incub_period, h","growth_temp, C",biosafety_level,isolated_from
+0,Acinetobacter baumannii,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter calcoaceticus/baumannii complex,n,36.0,37,2,urine
+1,Actinobacillus pleuropneumoniae,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus pleuropneumoniae,n,36.0,37,2,lungs
+6,Bacillus cereus,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus group,p,10.0,30,2,food
+7,Bacillus licheniformis,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis group,p,20.0,37,1,soil
+8,Bacillus sp.,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,unclassified Bacillus,p,10.0,30,2,soil
+9,Bacillus subtilis,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis group,p,7.08,30,1,soil
+13,Citrobacter freundii,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter freundii complex,n,18.0,37,2,water
+15,Corynebacterium xerosis,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium xerosis,p,288.0,37,2,ear
+16,Enterobacter cloacae,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter cloacae complex,n,42.0,30,2,water
+17,Enterococcus faecalis,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,p,36.0,37,2,urine
+19,Enterococcus sp.,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus sp.,p,36.0,37,2,food
+20,Escherichia coli,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,n,84.0,37,2,urine
+21,Escherichia coli O157,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,n,84.0,37,2,urine
+22,Haemophilus influenzae,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae,n,36.0,37,2,respiratory tract
+23,Klebsiella pneumoniae,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,n,48.0,30,2,respiratory tract
+24,Klebsiella sp.,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella sp.,n,48.0,37,2,respiratory tract
+25,Lactococcus lactis,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,p,18.0,22,1,food
+26,Listeria monocytogenes,Bacillota,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes,p,36.0,37,2,food
+27,Micrococcus luteus,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Micrococcus,Micrococcus luteus,p,288.0,30,1,soil
+28,Neisseria mucosa,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria mucosa,n,36.0,30,2,sputum
+29,Pasteurella Multocida,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Pasteurella,Pasteurella Multocida,n,18.0,37,2,lungs
+31,Proteus mirabilis,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus mirabilis,n,48.0,37,2,urine
+32,Proteus sp.,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus sp.,n,48.0,37,2,soil
+33,Proteus vulgaris,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus vulgaris,n,48.0,30,2,soil
+34,Pseudomonas aeruginosa,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,n,48.0,37,2,soil
+35,Pseudomonas koreensis,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens group,n,36.0,30,1,soil
+36,Pseudomonas putida,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas putida group,n,15.0,30,1,soil
+37,Pseudomonas sp.,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas,n,96.0,37,2,soil
+39,Salmonella enterica,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,n,42.0,37,2,food
+40,Salmonella sp.,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella,n,24.0,37,2,intestinal tract
+43,Salmonella typhimurium,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia marcescens,n,7.0,30,2,water
+44,Serratia odorifera,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia odorifera,n,0.0,30,1,soil
+45,Staphylococcus aureus,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,p,36.0,37,2,skin
+46,Staphylococcus epidermidis,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,p,36.0,37,2,nose
+47,Staphylococcus saprophyticus,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus saprophyticus,p,21.0,30,2,urine
+48,Staphylococcus sciuri,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Mammaliicoccus,Staphylococcus sciuri,p,33.0,37,1,skin
+49,Staphylococcus sp.,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus,p,3.5,37,2,skin
+50,Streptococcus mutans,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans,p,36.0,37,2,carious dentine
+51,Streptococcus pneumoniae,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,p,36.0,37,2,respiratory tract
+52,Streptococcus pyogenes,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,p,36.0,37,2,mouth
+53,Streptococcus uberis,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus uberis,p,36.0,37,2,mammary gland
+54,Streptococcus viridans,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus viridans,p,252.0,37,1,mouth
+57,Vibrio cholerae,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,n,60.0,30,2,water
+58,Vibrio parahaemolyticus,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio harveyi group,n,16.0,30,2,water
