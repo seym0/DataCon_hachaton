@@ -2,8 +2,10 @@
 
 # DataCon_hachaton
 
-Данный репозиторий является решением хакатона(DataCon) от SCAMT ITMO
+Данный репозиторий является решением [хакатона DataCon от SCAMT ITMO](https://github.com/dataconHack/hackathon)
+
 Задача: Построить предсказательную модель зоны ингибирования молекулы
+
 Порядок выполнения:
 1) requirements.py (подгружает пакеты из requirements.txt)
 2) united_db.py (Сбор датасета)
